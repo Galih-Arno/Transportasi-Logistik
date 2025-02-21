@@ -14,26 +14,22 @@ TransSwift adalah platform digital yang menghubungkan pengirim, penerima, dan pe
 
 ## 3 Fitur Utama
 ### 1. Pemesanan Pengiriman
-
-    Form pemesanan barang dengan detail pengirim & penerima
-    Pilihan metode pengiriman (reguler, ekspres, cargo)
-    Estimasi biaya pengiriman berdasarkan jarak & berat
+Form pemesanan barang dengan detail pengirim & penerima
+Pilihan metode pengiriman (reguler, ekspres, cargo)
+Estimasi biaya pengiriman berdasarkan jarak & berat
 
 ### 2. Tracking & Notifikasi
-
-    Input nomor resi untuk melihat status pengiriman
-    Update status pengiriman secara real-time dengan WebSocket
-    Notifikasi otomatis melalui email & dashboard
+Input nomor resi untuk melihat status pengiriman
+Update status pengiriman secara real-time dengan WebSocket
+Notifikasi otomatis melalui email & dashboard
 
 ### 3. Dashboard User & Admin
-
-    User: Riwayat pengiriman, status pesanan, & pengelolaan akun
-    Admin: Manajemen pengiriman, laporan transaksi, & kontrol operasional
+User: Riwayat pengiriman, status pesanan, & pengelolaan akun
+Admin: Manajemen pengiriman, laporan transaksi, & kontrol operasional
 
 ### 4. Pembayaran & Invoice
-
-    Integrasi metode pembayaran digital (Midtrans, Xendit, atau PayPal)
-    Pembuatan invoice otomatis setelah pemesanan
+Integrasi metode pembayaran digital (Midtrans, Xendit, atau PayPal)
+Pembuatan invoice otomatis setelah pemesanan
 
 ## 4 Tech Stack yang Digunakan
 
